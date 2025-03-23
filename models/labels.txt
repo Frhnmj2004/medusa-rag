@@ -1,0 +1,9 @@
+0 Surgical Wounds
+1 Pressure Wounds
+2 Normal Wounds
+3 Lacerations
+4 Diabetic Wound
+5 Cut
+6 Burn
+7 Bruises
+8 Abrasions
